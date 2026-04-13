@@ -63,6 +63,12 @@ The controller connects to switches using OpenFlow, periodically requests flow s
 * Traffic analysis
 * SDN learning and experimentation
 
+## Output Screenshots
+<img width="975" height="421" alt="image" src="https://github.com/user-attachments/assets/2ba72a42-dfa9-4db4-874b-3664ba2e97bc" />
+
+<img width="975" height="545" alt="image" src="https://github.com/user-attachments/assets/fe652d70-8015-4c34-886b-955547ddad97" />
+
+
 ## Author
 
 Aryan V
